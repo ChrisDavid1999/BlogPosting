@@ -1,0 +1,15 @@
+Icons
+Credit: https://fontawesome.com/icons/discord
+License: https://fontawesome.com/license
+
+Things that are working
+- Database posts display
+- Page sizing
+- Github link
+- CSS style is quite alright
+
+Things that need to be done
+- Post creating system
+- Login System
+- Article viewing page
+- Posts page
